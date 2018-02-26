@@ -1,0 +1,23 @@
+{
+  "name": "mqtt2influx",
+  "version": "0.0.1",
+  "description": "read from mqtt into influx",
+  "main": "mqtt2influx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjung82/mqtt2influxdb.git"
+  },
+  "keywords": [
+    "MQTT",
+    "InfluxDB"
+  ],
+  "author": "Benjamin Jung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjung82/mqtt2influxdb/issues"
+  },
+  "homepage": "https://github.com/bjung82/mqtt2influxdb#readme"
+}
