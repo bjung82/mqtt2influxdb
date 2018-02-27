@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/bjung82/mqtt2influxdb/issues"
   },
-  "homepage": "https://github.com/bjung82/mqtt2influxdb#readme"
+  "homepage": "https://github.com/bjung82/mqtt2influxdb#readme",
+  "dependencies": {
+    "influx": "^5.0.7"
+  }
 }
